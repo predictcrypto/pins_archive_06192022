@@ -70,7 +70,7 @@
   type: table
 - path: flame_price
   name: flame_price
-  rows: 17246
+  rows: 17245
   cols: 3
   type: table
 - path: GRT_network_stats
@@ -90,7 +90,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 2155
+  rows: 2156
   cols: 10
   type: table
 - path: stats_hicetnunc_new

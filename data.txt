@@ -65,12 +65,12 @@
   type: table
 - path: plenty_price
   name: plenty_price
-  rows: 17149
+  rows: 17150
   cols: 3
   type: table
 - path: flame_price
   name: flame_price
-  rows: 17149
+  rows: 17150
   cols: 3
   type: table
 - path: GRT_network_stats
@@ -90,7 +90,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 2141
+  rows: 2140
   cols: 10
   type: table
 - path: stats_hicetnunc_new

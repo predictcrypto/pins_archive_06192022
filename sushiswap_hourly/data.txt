@@ -1,0 +1,21 @@
+path:
+- data.csv
+- data.rds
+rows: 170
+cols: 14
+columns:
+  periodStartUnix: integer
+  volume: character
+  volumeUSD: character
+  untrackedVolumeUSD: character
+  totalValueLocked: character
+  totalValueLockedUSD: character
+  priceUSD: character
+  feesUSD: character
+  open: character
+  high: character
+  low: character
+  close: character
+  symbol: character
+  date: POSIXct
+type: table

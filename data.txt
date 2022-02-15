@@ -1,6 +1,6 @@
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 1234
+  rows: 829
   cols: 11
   type: table
 - path: hdao_price
@@ -15,7 +15,7 @@
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 17224
+  rows: 17225
   cols: 3
   type: table
 - path: stkr_price

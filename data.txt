@@ -120,6 +120,6 @@
   type: table
 - path: sushiswap_hourly
   name: sushiswap_hourly
-  rows: 13159
+  rows: 13277
   cols: 14
   type: table

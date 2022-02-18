@@ -5,7 +5,7 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 17180
+  rows: 17179
   cols: 3
   type: table
 - path: wrap_price
@@ -90,7 +90,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 2144
+  rows: 2145
   cols: 10
   type: table
 - path: stats_hicetnunc_new

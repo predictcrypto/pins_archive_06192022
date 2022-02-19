@@ -1,3 +1,8 @@
-path: []
-extension: ''
-type: files
+path:
+- data.csv
+- data.rds
+rows: 2
+cols: 1
+columns:
+  transfer_summary: character
+type: table

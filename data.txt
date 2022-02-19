@@ -123,3 +123,8 @@
   rows: 17488
   cols: 14
   type: table
+- path: data_name_service_transfers_latest
+  name: data_name_service_transfers_latest
+  rows: 2
+  cols: 1
+  type: table

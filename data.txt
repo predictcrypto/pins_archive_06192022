@@ -50,7 +50,7 @@
   type: table
 - path: rsal_price
   name: rsal_price
-  rows: 17226
+  rows: 17224
   cols: 3
   type: table
 - path: tz10x_price
@@ -125,6 +125,6 @@
   type: table
 - path: data_name_service_transfers_latest
   name: data_name_service_transfers_latest
-  rows: 6
+  rows: 7
   cols: 1
   type: table

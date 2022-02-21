@@ -1,0 +1,38 @@
+path:
+- data.csv
+- data.rds
+rows: 5455
+cols: 31
+columns:
+  saleDate: Date
+  saleKind: integer
+  parcel_id: character
+  purchaser: character
+  seller: character
+  payment_token: character
+  price_ETH: numeric
+  id: character
+  createdAt: POSIXct
+  location: character
+  buildHeight: integer
+  area: integer
+  length: integer
+  width: integer
+  volumeInVoxels: integer
+  tokenURI: character
+  x: numeric
+  'y': numeric
+  volume: integer
+  price_USD: numeric
+  price_per_volume_USD: numeric
+  price_per_volume_ETH: numeric
+  address: factor
+  suburb: factor
+  island: factor
+  distance: numeric
+  floor_height: integer
+  area_avg_price_USD_100: numeric
+  area_avg_price_USD_50: numeric
+  area_avg_price_ETH_100: numeric
+  area_avg_price_ETH_50: numeric
+type: table

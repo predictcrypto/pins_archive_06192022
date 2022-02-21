@@ -1,0 +1,23 @@
+path:
+- data.csv
+- data.rds
+rows: 9838
+cols: 16
+columns:
+  tokenID: character
+  createdAt: POSIXct
+  address: factor
+  suburb: factor
+  island: factor
+  location: character
+  x: numeric
+  'y': numeric
+  tokenURI: character
+  length: integer
+  width: integer
+  area: integer
+  buildHeight: integer
+  volumeInVoxels: integer
+  volume: integer
+  floor_height: integer
+type: table

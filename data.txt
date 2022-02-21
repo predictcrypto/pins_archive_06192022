@@ -133,3 +133,8 @@
   rows: 5455
   cols: 31
   type: table
+- path: cryptovoxels_all_parcels
+  name: cryptovoxels_all_parcels
+  rows: 9838
+  cols: 16
+  type: table

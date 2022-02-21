@@ -1,0 +1,22 @@
+path:
+- data.csv
+- data.rds
+rows: 9206
+cols: 15
+columns:
+  buyer: character
+  category: character
+  createdAt: POSIXct
+  id: character
+  owner: character
+  price: character
+  status: character
+  tokenId: character
+  txHash: character
+  x: character
+  'y': character
+  price_MANA: numeric
+  date: Date
+  priceUSD: character
+  price_USD: numeric
+type: table

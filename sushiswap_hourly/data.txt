@@ -1,7 +1,7 @@
 path:
 - data.csv
 - data.rds
-rows: 30486
+rows: 30645
 cols: 14
 columns:
   periodStartUnix: integer

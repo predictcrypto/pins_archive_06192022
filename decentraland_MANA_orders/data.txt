@@ -1,10 +1,26 @@
 path:
 - data.csv
 - data.rds
-rows: 0
-cols: 3
+rows: 9279
+cols: 19
 columns:
+  buyer: character
+  category: character
   purchasedAt: POSIXct
+  id: character
+  owner: character
+  status: character
+  tokenId: character
+  txHash: character
+  x: numeric
+  'y': numeric
+  price_MANA: numeric
   date: Date
-  priceUSD: character
+  price_USD: numeric
+  area_avg_price_USD_3: numeric
+  area_avg_price_USD_5: numeric
+  area_avg_price_USD_10: numeric
+  area_avg_price_USD_20: numeric
+  area_avg_price_USD_50: numeric
+  area_avg_price_USD_100: numeric
 type: table

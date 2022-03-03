@@ -140,6 +140,6 @@
   type: table
 - path: decentraland_MANA_orders
   name: decentraland_MANA_orders
-  rows: 0
-  cols: 3
+  rows: 9279
+  cols: 19
   type: table

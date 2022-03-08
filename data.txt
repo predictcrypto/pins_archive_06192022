@@ -95,7 +95,7 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 1848
+  rows: 1847
   cols: 14
   type: table
 - path: stats_kalamint
@@ -120,7 +120,7 @@
   type: table
 - path: sushiswap_hourly
   name: sushiswap_hourly
-  rows: 72767
+  rows: 72930
   cols: 14
   type: table
 - path: data_name_service_transfers_latest

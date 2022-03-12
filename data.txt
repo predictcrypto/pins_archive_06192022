@@ -1,6 +1,6 @@
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 11011
+  rows: 11442
   cols: 11
   type: table
 - path: hdao_price

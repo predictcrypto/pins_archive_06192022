@@ -40,7 +40,7 @@
   type: table
 - path: ethtz_price
   name: ethtz_price
-  rows: 17235
+  rows: 17233
   cols: 3
   type: table
 - path: sdao_price
@@ -100,7 +100,7 @@
   type: table
 - path: stats_kalamint
   name: stats_kalamint
-  rows: 2144
+  rows: 2145
   cols: 10
   type: table
 - path: open_cv_sales

@@ -45,7 +45,7 @@
   type: table
 - path: sdao_price
   name: sdao_price
-  rows: 17223
+  rows: 17222
   cols: 3
   type: table
 - path: rsal_price
@@ -100,7 +100,7 @@
   type: table
 - path: stats_kalamint
   name: stats_kalamint
-  rows: 2142
+  rows: 2143
   cols: 10
   type: table
 - path: open_cv_sales

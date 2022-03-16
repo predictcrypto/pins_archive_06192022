@@ -120,7 +120,7 @@
   type: table
 - path: sushiswap_hourly
   name: sushiswap_hourly
-  rows: 98375
+  rows: 98525
   cols: 14
   type: table
 - path: data_name_service_transfers_latest

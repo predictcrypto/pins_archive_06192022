@@ -135,7 +135,7 @@
   type: table
 - path: cryptovoxels_all_parcels
   name: cryptovoxels_all_parcels
-  rows: 9838
+  rows: 9899
   cols: 16
   type: table
 - path: decentraland_MANA_orders

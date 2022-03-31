@@ -95,7 +95,7 @@
   type: table
 - path: stats_hicetnunc_new
   name: stats_hicetnunc_new
-  rows: 1943
+  rows: 1944
   cols: 14
   type: table
 - path: stats_kalamint

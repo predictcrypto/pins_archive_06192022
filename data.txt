@@ -90,7 +90,7 @@
   type: table
 - path: stats_hicetnunc
   name: stats_hicetnunc
-  rows: 2662
+  rows: 2663
   cols: 10
   type: table
 - path: stats_hicetnunc_new

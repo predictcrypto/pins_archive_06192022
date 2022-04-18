@@ -1,17 +1,17 @@
 path:
 - data.csv
 - data.rds
-rows: 2000
+rows: 9564
 cols: 19
 columns:
-  id: character
-  txHash: character
-  owner: character
   buyer: character
-  status: character
-  tokenId: character
   category: character
   purchasedAt: POSIXct
+  id: character
+  owner: character
+  status: character
+  tokenId: character
+  txHash: character
   x: numeric
   'y': numeric
   price_MANA: numeric

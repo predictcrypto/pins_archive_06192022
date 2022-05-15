@@ -65,7 +65,7 @@
   type: table
 - path: plenty_price
   name: plenty_price
-  rows: 17222
+  rows: 17221
   cols: 3
   type: table
 - path: flame_price
@@ -140,6 +140,6 @@
   type: table
 - path: decentraland_MANA_orders
   name: decentraland_MANA_orders
-  rows: 9758
+  rows: 9761
   cols: 19
   type: table

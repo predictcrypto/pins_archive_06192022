@@ -1,6 +1,6 @@
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 38935
+  rows: 39720
   cols: 11
   type: table
 - path: hdao_price
@@ -30,7 +30,7 @@
   type: table
 - path: usds_price
   name: usds_price
-  rows: 17224
+  rows: 17223
   cols: 3
   type: table
 - path: usdtz_price
